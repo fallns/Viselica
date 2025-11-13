@@ -22,6 +22,6 @@
    git clone https://github.com/fallns/viselitsa-lab.git
 
 ## Роли участников
-Исаков Кирилл - (feature/game-logic) условия победы/проигрыша
-Семенищева Наталья - (feature/word-list) список слов
-Попов Артём - (feature/ui-input) ввод и проверка букв
+Исаков Кирилл - (feature/game-logic) условия победы/проигрыша.
+Семенищева Наталья - (feature/word-list) список слов.
+Попов Артём - (feature/ui-input) ввод и проверка букв.
