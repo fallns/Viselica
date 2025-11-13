@@ -22,10 +22,10 @@
    git clone https://github.com/fallns/Viselitsa.git
 3. Запустить скрипт   
 В Git Bash:   
-- python viselitsa-lab.py   
-или если не сработает:   
+- python viselitsa-lab.py
+  Если не сработает:   
 - python3 viselitsa-lab.py   
-или в Windows:   
+  или в Windows:      
 - py -3 viselitsa-lab.py   
 
 
