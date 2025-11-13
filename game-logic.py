@@ -45,5 +45,5 @@ def main():
     else:
         print("Вы проиграли. Загаданное слово было:", secret_word)
 
-if name == "main":
+if __name__ == "__main__":
     main()
